@@ -1,0 +1,8 @@
+{
+  "CVC_DOWNTIME_LOG": {
+    "target": {
+      "object": "kostal.sapme.mespadm::CVC_DOWNTIME_LOG",
+      "schema": "DBADMIN"
+    }
+  }
+}
